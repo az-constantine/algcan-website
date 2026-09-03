@@ -78,7 +78,7 @@ input, textarea { width: 100%; border: 1px solid #ccd3cd; padding: 13px 14px; bo
 input:focus, textarea:focus { outline: 2px solid rgba(8,116,67,.2); border-color: var(--green); }
 .footer { background: #111; color: white; padding: 45px 0 20px; }
 .footer-grid { display: grid; grid-template-columns: 1.2fr 1fr 1fr; gap: 35px; align-items: center; }
-.footer img { width: 180px; background: white; padding: 8px; }
+.footer img { width: 180px; }
 .footer a { color: #bfe2cf; }
 .copyright { border-top: 1px solid #333; margin-top: 35px; padding-top: 18px; color: #aaa; font-size: .76rem; }
 @media (max-width: 900px) {
